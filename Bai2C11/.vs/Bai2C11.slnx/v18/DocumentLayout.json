@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|c:\\users\\administrator\\source\\repos\\bai2c11\\bai2c11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|solutionrelative:bai2c11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|c:\\users\\administrator\\source\\repos\\bai2c11\\bai2c11\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|solutionrelative:bai2c11\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|c:\\users\\administrator\\source\\repos\\bai2c11\\bai2c11\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|solutionrelative:bai2c11\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|c:\\users\\administrator\\source\\repos\\bai2c11\\bai2c11\\formkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|solutionrelative:bai2c11\\formkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|c:\\users\\administrator\\source\\repos\\bai2c11\\bai2c11\\data\\ql_nhatrodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB101A90-D1A5-3F8F-A47A-4864876BD0F7}|Bai2C11\\Bai2C11.csproj|solutionrelative:bai2c11\\data\\ql_nhatrodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormKhachThue.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\FormKhachThue.cs",
+              "RelativeDocumentMoniker": "Bai2C11\\FormKhachThue.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\FormKhachThue.cs",
+              "RelativeToolTip": "Bai2C11\\FormKhachThue.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAqwG4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:57:33.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Bai2C11\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\appsettings.Development.json",
+              "RelativeToolTip": "Bai2C11\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T02:57:25.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.example.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\appsettings.example.json",
+              "RelativeDocumentMoniker": "Bai2C11\\appsettings.example.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\appsettings.example.json",
+              "RelativeToolTip": "Bai2C11\\appsettings.example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T02:57:21.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\appsettings.json",
+              "RelativeDocumentMoniker": "Bai2C11\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\appsettings.json",
+              "RelativeToolTip": "Bai2C11\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T02:55:57.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QL_NhaTroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\Data\\QL_NhaTroDbContext.cs",
+              "RelativeDocumentMoniker": "Bai2C11\\Data\\QL_NhaTroDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai2C11\\Bai2C11\\Data\\QL_NhaTroDbContext.cs",
+              "RelativeToolTip": "Bai2C11\\Data\\QL_NhaTroDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:54:35.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

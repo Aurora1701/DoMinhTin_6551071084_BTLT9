@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|c:\\users\\administrator\\source\\repos\\bai1c11\\bai1c11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|solutionrelative:bai1c11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|c:\\users\\administrator\\source\\repos\\bai1c11\\bai1c11\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|solutionrelative:bai1c11\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|c:\\users\\administrator\\source\\repos\\bai1c11\\bai1c11\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|solutionrelative:bai1c11\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|C:\\Users\\Administrator\\source\\repos\\Bai1C11\\bai1c11\\formchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|solutionrelative:bai1c11\\formchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|c:\\users\\administrator\\source\\repos\\bai1c11\\bai1c11\\formchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|solutionrelative:bai1c11\\formchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|c:\\users\\administrator\\source\\repos\\bai1c11\\bai1c11\\data\\ql_chitieudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6BB953-816A-5163-631D-7C5DD32310A7}|Bai1C11\\Bai1C11.csproj|solutionrelative:bai1c11\\data\\ql_chitieudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Bai1C11\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\appsettings.Development.json",
+              "RelativeToolTip": "Bai1C11\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T02:43:06.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.example.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\appsettings.example.json",
+              "RelativeDocumentMoniker": "Bai1C11\\appsettings.example.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\appsettings.example.json",
+              "RelativeToolTip": "Bai1C11\\appsettings.example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T02:43:03.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\appsettings.json",
+              "RelativeDocumentMoniker": "Bai1C11\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\appsettings.json",
+              "RelativeToolTip": "Bai1C11\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T02:36:11.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormChiTieu.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\FormChiTieu.cs",
+              "RelativeDocumentMoniker": "Bai1C11\\FormChiTieu.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\FormChiTieu.cs",
+              "RelativeToolTip": "Bai1C11\\FormChiTieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:41:10.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormChiTieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\FormChiTieu.cs",
+              "RelativeDocumentMoniker": "Bai1C11\\FormChiTieu.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\FormChiTieu.cs [Design]",
+              "RelativeToolTip": "Bai1C11\\FormChiTieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:41:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QL_ChiTieuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\Data\\QL_ChiTieuDbContext.cs",
+              "RelativeDocumentMoniker": "Bai1C11\\Data\\QL_ChiTieuDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Bai1C11\\Bai1C11\\Data\\QL_ChiTieuDbContext.cs",
+              "RelativeToolTip": "Bai1C11\\Data\\QL_ChiTieuDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:31:21.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+Logs/
+publish/
+# file cấu hình chứa mật khẩu -> không đưa lên GitHub
+appsettings.json
+appsettings.Development.json
